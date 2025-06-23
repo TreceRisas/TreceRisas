@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Gabasa Azcón
 
-<!--
-**TreceRisas/TreceRisas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ingeniero Civil** con formación avanzada en BIM Management, Inteligencia de Negocio, Big Data en Entornos Seguros e Ingeniería Hidráulica y Energía.
 
-Here are some ideas to get you started:
+💻 Me enfoco en la **automatización de procesos en ingeniería** mediante el uso de la API de Revit y Civil 3D, así como en el desarrollo de soluciones eficientes impulsadas por Inteligencia Artificial utilizando **Python, R y C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente trabajo en la aplicación de **IA para la predicción energética y fenómenos hidráulicos** usando tecnologías como TensorFlow, PyTorch, Keras, Scikit-Learn y más.
+
+🔍 Siempre aprendiendo: profundizando en modelización hidráulica, estadística aplicada y sistemas inteligentes para la toma de decisiones basada en datos masivos.
+
+🤖 Interesado en colaborar con proyectos de **tecnología aeroespacial, robótica o desarrollo tecnológico estratégico**.
+
+📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/juangabasazcon/)
+
+> “No hay límites cuando ingeniería y datos se unen con propósito.”
+
+---
+
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juangabasazcon&show_icons=true&theme=gruvbox)
+
