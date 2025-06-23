@@ -16,5 +16,5 @@
 
 ---
 
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juangabasazcon&show_icons=true&theme=gruvbox)
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TreceRisas&show_icons=true&theme=gruvbox)
 
