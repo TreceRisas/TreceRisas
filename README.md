@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Gabasa Azcón
+# 👋 ¡Hola! Soy Juan Gabás Azcón
 
 🎓 **Ingeniero Civil** con formación avanzada en BIM Management, Inteligencia de Negocio, Big Data en Entornos Seguros e Ingeniería Hidráulica y Energía.
 
