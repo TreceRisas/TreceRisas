@@ -2,7 +2,7 @@
 
 🎓 **Ingeniero Civil** con formación avanzada en BIM Management, Inteligencia de Negocio, Big Data en Entornos Seguros e Ingeniería Hidráulica y Energía.
 
-💻 Me enfoco en la **automatización de procesos en ingeniería** mediante el uso de la API de Revit y Civil 3D, así como en el desarrollo de soluciones eficientes impulsadas por Inteligencia Artificial utilizando **Python, R y C#**.
+💻 Me enfoco en la **automatización de procesos en ingeniería** mediante el uso de la API de Revit y Civil 3D, así como en el desarrollo de soluciones eficientes impulsadas por Inteligencia Artificial utilizando **Python, R y C#**, para el Sector Energético.
 
 🚀 Actualmente trabajo en la aplicación de **IA para la predicción energética y fenómenos hidráulicos** usando tecnologías como TensorFlow, PyTorch, Keras, Scikit-Learn y más.
 
